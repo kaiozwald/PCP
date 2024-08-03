@@ -1,0 +1,8 @@
+Flask
+joblib
+nltk
+scikit-learn
+imbalanced-learn
+pyspellchecker
+pandas
+numpy

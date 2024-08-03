@@ -1,0 +1,17 @@
+hi idiot,
+to run this awesome model you need to do these things:
+
+1. install requirements:
+run this code:
+pip install -r requirements.txt
+
+2. see how you are gonna use postman with this model
+
+3. DON'T BE IDIOT AND DELETE ANY FILES FROM HERE
+
+4. use this model carefully unless you are idiot (;
+
+5. after finishing run this file:
+Final_IF_YOU_ARE_IDIOT.py
+using :
+python Final_IF_YOU_ARE_IDIOT.py
